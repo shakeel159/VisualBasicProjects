@@ -1,0 +1,24 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Viewbox Stretch="Uniform">
+        <Grid Width="800" Height="450">
+            <Label Content="Sign In" FontSize="25" HorizontalAlignment="Left" Margin="668,148,0,0" VerticalAlignment="Top"/>
+            <TextBox HorizontalAlignment="Left" Margin="651,225,0,0" TextWrapping="Wrap" Text="Username" VerticalAlignment="Top" Width="120"/>
+            <TextBox HorizontalAlignment="Left" Margin="651,260,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="120"/>
+            <Button Name="btnSignIn" Content="Sign In" HorizontalAlignment="Left" Margin="731,294,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+            <TextBlock FontSize="10" HorizontalAlignment="Left" Margin="538,404,0,0" VerticalAlignment="Top">
+                <Run Text="Don't have an account? "/>
+                <Hyperlink x:Name="lnkSignUp" Click="lnkSignUp_Click">Sign Up</Hyperlink>
+                <Run Text=" or continue as "/>
+                <Hyperlink x:Name="lnkGuest" Click="lnkGuest_Click">Guest</Hyperlink>
+            </TextBlock>
+
+        </Grid>
+    </Viewbox>
+</Window>

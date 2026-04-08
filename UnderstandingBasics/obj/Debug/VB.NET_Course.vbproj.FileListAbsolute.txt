@@ -1,0 +1,13 @@
+E:\VisualBasics\FirstProject\VB.NET_Course\bin\Debug\VB.NET_Course.exe.config
+E:\VisualBasics\FirstProject\VB.NET_Course\bin\Debug\VB.NET_Course.exe
+E:\VisualBasics\FirstProject\VB.NET_Course\bin\Debug\VB.NET_Course.pdb
+E:\VisualBasics\FirstProject\VB.NET_Course\bin\Debug\VB.NET_Course.xml
+E:\VisualBasics\FirstProject\VB.NET_Course\obj\Debug\VB.NET_Course.vbproj.AssemblyReference.cache
+E:\VisualBasics\FirstProject\VB.NET_Course\obj\Debug\VB.NET_Course.Form1.resources
+E:\VisualBasics\FirstProject\VB.NET_Course\obj\Debug\VB.NET_Course.Resources.resources
+E:\VisualBasics\FirstProject\VB.NET_Course\obj\Debug\VB.NET_Course.vbproj.GenerateResource.cache
+E:\VisualBasics\FirstProject\VB.NET_Course\obj\Debug\VB.NET_Course.vbproj.CoreCompileInputs.cache
+E:\VisualBasics\FirstProject\VB.NET_Course\obj\Debug\VB.NET_Course.exe
+E:\VisualBasics\FirstProject\VB.NET_Course\obj\Debug\VB.NET_Course.xml
+E:\VisualBasics\FirstProject\VB.NET_Course\obj\Debug\VB.NET_Course.pdb
+E:\VisualBasics\FirstProject\VB.NET_Course\obj\Debug\VB.NET_Course.exe.config
