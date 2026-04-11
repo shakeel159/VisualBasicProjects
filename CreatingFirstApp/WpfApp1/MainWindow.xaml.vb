@@ -14,4 +14,5 @@
     Private Sub LogIn_Click(sender As Object, e As RoutedEventArgs)
 
     End Sub
+
 End Class

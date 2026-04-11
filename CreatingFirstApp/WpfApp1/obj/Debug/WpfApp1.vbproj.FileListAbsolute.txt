@@ -48,3 +48,5 @@ E:\VisualBasics\VisualBasicProjects\CreatingFirstApp\WpfApp1\obj\Debug\WpfApp1.v
 E:\VisualBasics\VisualBasicProjects\CreatingFirstApp\WpfApp1\obj\Debug\View\UserControls\MenuBar.g.vb
 E:\VisualBasics\VisualBasicProjects\CreatingFirstApp\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.vb
 E:\VisualBasics\VisualBasicProjects\CreatingFirstApp\WpfApp1\obj\Debug\View\UserControls\MenuBar.baml
+E:\VisualBasics\VisualBasicProjects\CreatingFirstApp\WpfApp1\obj\Debug\View\UserControls\ClearableTextBox.g.vb
+E:\VisualBasics\VisualBasicProjects\CreatingFirstApp\WpfApp1\obj\Debug\View\UserControls\ClearableTextBox.baml

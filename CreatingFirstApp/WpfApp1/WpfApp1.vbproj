@@ -79,6 +79,9 @@
     </Compile>
     <Compile Include="UserModel.vb" />
     <Compile Include="UserService.vb" />
+    <Compile Include="View\UserControls\ClearableTextBox.xaml.vb">
+      <DependentUpon>ClearableTextBox.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\UserControls\MenuBar.xaml.vb">
       <DependentUpon>MenuBar.xaml</DependentUpon>
     </Compile>
@@ -99,6 +102,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Register.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UserControls\ClearableTextBox.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

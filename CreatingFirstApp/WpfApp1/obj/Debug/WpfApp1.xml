@@ -74,6 +74,16 @@ Register
 InitializeComponent
 </summary>
 </member>
+<member name="T:WpfApp1.ClearableTextBox">
+<summary>
+ClearableTextBox
+</summary>
+</member>
+<member name="M:WpfApp1.ClearableTextBox.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:WpfApp1.MenuBar">
 <summary>
 MenuBar

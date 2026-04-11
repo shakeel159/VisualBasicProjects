@@ -3,48 +3,56 @@
   "WorkspaceRootPath": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|e:\\visualbasics\\visualbasicprojects\\creatingfirstapp\\wpfapp1\\view\\usercontrols\\clearabletextbox.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:view\\usercontrols\\clearabletextbox.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|e:\\visualbasics\\visualbasicprojects\\creatingfirstapp\\wpfapp1\\dashboardwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:dashboardwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|e:\\visualbasics\\visualbasicprojects\\creatingfirstapp\\wpfapp1\\view\\usercontrols\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:view\\usercontrols\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|e:\\visualbasics\\visualbasicprojects\\creatingfirstapp\\wpfapp1\\view\\usercontrols\\menubar.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:view\\usercontrols\\menubar.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|e:\\visualbasics\\visualbasicprojects\\creatingfirstapp\\wpfapp1\\view\\usercontrols\\clearabletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:view\\usercontrols\\clearabletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|e:\\visualbasics\\visualbasicprojects\\creatingfirstapp\\wpfapp1\\userservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\userservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:userservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\usermodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:usermodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|e:\\visualbasics\\visualbasicprojects\\creatingfirstapp\\wpfapp1\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\dashboardwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:dashboardwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\register.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:register.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\register.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:register.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\view\\usercontrols\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:view\\usercontrols\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\usermodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:usermodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\view\\usercontrols\\menubar.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:view\\usercontrols\\menubar.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,62 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuBar.xaml.vb",
-              "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\MenuBar.xaml.vb",
-              "RelativeDocumentMoniker": "View\\UserControls\\MenuBar.xaml.vb",
-              "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\MenuBar.xaml.vb",
-              "RelativeToolTip": "View\\UserControls\\MenuBar.xaml.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-10T21:37:15.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuBar.xaml",
-              "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\MenuBar.xaml",
-              "RelativeDocumentMoniker": "View\\UserControls\\MenuBar.xaml",
-              "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\MenuBar.xaml",
-              "RelativeToolTip": "View\\UserControls\\MenuBar.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-10T21:30:59.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserService.vb",
-              "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\UserService.vb",
-              "RelativeDocumentMoniker": "UserService.vb",
-              "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\UserService.vb",
-              "RelativeToolTip": "UserService.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-09T21:37:52.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "UserModel.vb",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\UserModel.vb",
               "RelativeDocumentMoniker": "UserModel.vb",
               "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\UserModel.vb",
               "RelativeToolTip": "UserModel.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-04-09T21:35:00.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "users.json",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\users.json",
               "RelativeDocumentMoniker": "users.json",
@@ -122,20 +92,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DashboardWindow.xaml.vb",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\DashboardWindow.xaml.vb",
               "RelativeDocumentMoniker": "DashboardWindow.xaml.vb",
               "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\DashboardWindow.xaml.vb",
               "RelativeToolTip": "DashboardWindow.xaml.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-04-10T20:38:25.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "DashboardWindow.xaml",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\DashboardWindow.xaml",
               "RelativeDocumentMoniker": "DashboardWindow.xaml",
@@ -147,43 +117,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Register.xaml.vb",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\Register.xaml.vb",
               "RelativeDocumentMoniker": "Register.xaml.vb",
               "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\Register.xaml.vb",
               "RelativeToolTip": "Register.xaml.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-08T22:03:21.626Z"
+              "WhenOpened": "2026-04-08T22:03:21.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Register.xaml",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\Register.xaml",
               "RelativeDocumentMoniker": "Register.xaml",
               "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\Register.xaml",
               "RelativeToolTip": "Register.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T21:59:51.049Z"
+              "WhenOpened": "2026-04-08T21:59:51.049Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.vb",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\MainWindow.xaml.vb",
               "RelativeDocumentMoniker": "MainWindow.xaml.vb",
               "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\MainWindow.xaml.vb",
               "RelativeToolTip": "MainWindow.xaml.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-04-08T21:56:21.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -191,6 +163,69 @@
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-04-07T20:32:04.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View\\UserControls\\ClearableTextBox.xaml.vb",
+              "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\ClearableTextBox.xaml.vb",
+              "RelativeDocumentMoniker": "View\\UserControls\\ClearableTextBox.xaml.vb",
+              "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\ClearableTextBox.xaml.vb",
+              "RelativeToolTip": "View\\UserControls\\ClearableTextBox.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-11T17:55:48.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClearableTextBox.xaml",
+              "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\ClearableTextBox.xaml",
+              "RelativeDocumentMoniker": "View\\UserControls\\ClearableTextBox.xaml",
+              "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\ClearableTextBox.xaml",
+              "RelativeToolTip": "View\\UserControls\\ClearableTextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-11T17:41:41.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.vb",
+              "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\UserService.vb",
+              "RelativeDocumentMoniker": "UserService.vb",
+              "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\UserService.vb",
+              "RelativeToolTip": "UserService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-09T21:37:52.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuBar.xaml",
+              "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\MenuBar.xaml",
+              "RelativeDocumentMoniker": "View\\UserControls\\MenuBar.xaml",
+              "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\MenuBar.xaml",
+              "RelativeToolTip": "View\\UserControls\\MenuBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-10T21:30:59.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuBar.xaml.vb",
+              "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\MenuBar.xaml.vb",
+              "RelativeDocumentMoniker": "View\\UserControls\\MenuBar.xaml.vb",
+              "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\MenuBar.xaml.vb",
+              "RelativeToolTip": "View\\UserControls\\MenuBar.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-10T21:37:15.905Z",
               "EditorCaption": ""
             }
           ]
