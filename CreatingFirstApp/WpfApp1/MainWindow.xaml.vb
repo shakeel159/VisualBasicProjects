@@ -1,6 +1,6 @@
 ﻿Class MainWindow
     ' Sign Up link → opens Register window
-    Private Sub lnkSignUp_Click(sender As Object, e As RoutedEventArgs)
+    Private Sub lnkRegister_Click(sender As Object, e As RoutedEventArgs)
         Dim registerWin As New Register()
         registerWin.Show()
         Me.Hide()
@@ -11,7 +11,7 @@
         dashboardWin.Show()
         Me.Hide()
     End Sub
-    Private Sub Button_Click(sender As Object, e As RoutedEventArgs)
-        btnSignIn.Content = "Run"
+    Private Sub LogIn_Click(sender As Object, e As RoutedEventArgs)
+
     End Sub
 End Class

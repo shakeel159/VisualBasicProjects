@@ -1,0 +1,6 @@
+
+
+CURRENT PROGRESS DONE:
+ all forms have been created. after planning and chatting with AI on how to go about building a log in page my next step is to create local data storage for users. this is being done first for validation when doing logging in.
+
+Json file created called users.Json, downloading NewtonSoft.json for file reading.*Learn more about file reading writing and json

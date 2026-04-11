@@ -7,6 +7,45 @@
         mc:Ignorable="d"
         Title="DashboardWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <!--Menu Bar-->
+        <local:MenuBar Grid.Row="0"/>
+        <!--Body-->
+        <Grid Grid.Row="1" Background="DimGray">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="20*"/>
+                <ColumnDefinition Width="80*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Left Column: single undivided panel -->
+            <Grid Grid.Column="0" Background="DimGray">
+                <!-- your left side content here -->
+            </Grid>
+
+            <!-- Right Column: split into 2 rows -->
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="80*"/>
+                </Grid.RowDefinitions>
+            </Grid>
+
+            <!-- Top Right -->
+            <Grid Grid.Row="0" Background="SlateGray">
+                <!-- top right content -->
+            </Grid>
+
+            <!-- Bottom Right -->
+            <Grid Grid.Row="1" Background="Gray">
+                <!-- bottom right content -->
+            </Grid>
+        </Grid>
+        <!--BottomBar-->
+        <Rectangle Grid.Row="2"></Rectangle>
     </Grid>
 </Window>

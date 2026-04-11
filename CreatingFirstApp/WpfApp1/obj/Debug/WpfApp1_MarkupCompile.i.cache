@@ -4,17 +4,17 @@
 winexe
 VB
 .vb
-E:\VisualBasics\FirstProjects\CreatingFirstApp\WpfApp1\obj\Debug\
+E:\VisualBasics\VisualBasicProjects\CreatingFirstApp\WpfApp1\obj\Debug\
 WpfApp1
 none
 false
 
-E:\VisualBasics\FirstProjects\CreatingFirstApp\WpfApp1\Application.xaml
-3606821506
+E:\VisualBasics\VisualBasicProjects\CreatingFirstApp\WpfApp1\Application.xaml
+41486081050
 
-91129931364
-111190997905
-DashboardWindow.xaml;MainWindow.xaml;Register.xaml;
+12988419648
+12-377924212
+DashboardWindow.xaml;MainWindow.xaml;Register.xaml;View\UserControls\MenuBar.xaml;
 
 True
 
