@@ -5,17 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
+        Loaded="Register_Loaded"
         Title="Register" Height="450" Width="800">
     <Viewbox Stretch="Uniform">
         <Grid Height="450" Width="800">
             <Label Content="Register Page" HorizontalAlignment="Center" Margin="0,100,0,0" VerticalAlignment="Top"/>
-            <TextBox HorizontalAlignment="Left" Margin="220,168,0,0" TextWrapping="Wrap" Text="FirstName" VerticalAlignment="Top" Width="120"/>
-            <TextBox HorizontalAlignment="Left" Margin="460,168,0,0" TextWrapping="Wrap" Text="Email" VerticalAlignment="Top" Width="120"/>
-            <TextBox HorizontalAlignment="Left" Margin="220,207,0,0" TextWrapping="Wrap" Text="LastName" VerticalAlignment="Top" Width="120"/>
-            <TextBox HorizontalAlignment="Center" TextWrapping="Wrap" Text="Username" VerticalAlignment="Center" Width="120" Margin="-150,100,0,0"/>
-            <TextBox HorizontalAlignment="Center" TextWrapping="Wrap" Text="Passwoard" VerticalAlignment="Center" Width="120" Margin="150,100,0,0"/>
-            <ComboBox Name="cbGender" HorizontalAlignment="Left" Margin="460,207,0,0" VerticalAlignment="Top" Width="116" RenderTransformOrigin="0.447,-1.435" Height="20" SelectionChanged="ComboBox_SelectionChanged"/>
+            <local:ClearableTextBox x:Name="txtFirstName" Placeholder="FirstName" HorizontalAlignment="Left" Margin="220,168,0,0" VerticalAlignment="Top" Width="120"></local:ClearableTextBox>
+            <local:ClearableTextBox x:Name="txtEmail" Placeholder="Email" HorizontalAlignment="Left" Margin="460,168,0,0" VerticalAlignment="Top" Width="120"></local:ClearableTextBox>
+            <local:ClearableTextBox x:Name="txtLastName" Placeholder="LastName" HorizontalAlignment="Left" Margin="220,207,0,0" VerticalAlignment="Top" Width="120"></local:ClearableTextBox>
+            <local:ClearableTextBox x:Name="txtUsername" Placeholder="Username" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Margin="-150,100,0,0"></local:ClearableTextBox>
+            <local:ClearableTextBox x:Name="txtPassword" Placeholder="Passwoard" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Margin="150,100,0,0"></local:ClearableTextBox>
+            <ComboBox Name="cbGender" HorizontalAlignment="Left" Margin="460,207,0,0" VerticalAlignment="Top" Width="116" RenderTransformOrigin="0.447,-1.435" Height="20" SelectionChanged="Register_Loaded"/>
             <Button Content="Sign Up" HorizontalAlignment="Center" Margin="0,323,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+            <TextBlock x:Name="lblError" FontSize="11" Foreground="Red" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,350,0,0" Visibility="Collapsed" TextWrapping="Wrap"/>
         </Grid>
     </Viewbox>
 </Window>

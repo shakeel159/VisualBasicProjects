@@ -1,4 +1,6 @@
-﻿Class MainWindow
+﻿
+
+Class MainWindow
     ' Sign Up link → opens Register window
     Private Sub lnkRegister_Click(sender As Object, e As RoutedEventArgs)
         Dim registerWin As New Register()

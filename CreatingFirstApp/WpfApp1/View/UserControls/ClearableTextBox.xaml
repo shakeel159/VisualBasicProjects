@@ -7,6 +7,18 @@
              mc:Ignorable="d" 
              d:DesignHeight="30" d:DesignWidth="250">
     <Grid>
-        <TextBox Name="txtInput" VerticalContentAlignment="Center" FontWeight="Light" GotFocus="txtInput_GotFocus" LostFocus="txtInput_LostFocus"></TextBox>
+        <StackPanel>
+            <TextBox Name="txtInput" 
+             Height="30"
+             VerticalContentAlignment="Center" 
+             FontWeight="Light" 
+             GotFocus="txtInput_GotFocus" 
+             LostFocus="txtInput_LostFocus"/>
+            <TextBlock Name="lblInputError"
+               FontSize="10"
+               Foreground="Red"
+               Visibility="Collapsed"
+               TextWrapping="Wrap"/>
+        </StackPanel>
     </Grid>
 </UserControl>

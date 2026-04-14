@@ -77,7 +77,8 @@
     <Compile Include="Register.xaml.vb">
       <DependentUpon>Register.xaml</DependentUpon>
     </Compile>
-    <Compile Include="UserModel.vb" />
+    <Compile Include="Models\UserModel.vb" />
+    <Compile Include="Services\ValidationService.vb" />
     <Compile Include="UserService.vb" />
     <Compile Include="View\UserControls\ClearableTextBox.xaml.vb">
       <DependentUpon>ClearableTextBox.xaml</DependentUpon>
