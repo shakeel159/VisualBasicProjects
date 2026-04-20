@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\dashboardwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:dashboardwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\register.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:register.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|e:\\visualbasics\\visualbasicprojects\\creatingfirstapp\\wpfapp1\\services\\validationservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:services\\validationservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -11,28 +27,8 @@
       "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:view\\usercontrols\\clearabletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\register.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:register.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\userservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:userservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\view\\usercontrols\\clearabletextbox.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:view\\usercontrols\\clearabletextbox.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -43,8 +39,12 @@
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\dashboardwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:dashboardwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\userservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:userservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\view\\usercontrols\\clearabletextbox.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|solutionrelative:view\\usercontrols\\clearabletextbox.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{552AAD7F-D96B-4CE4-BABE-FFEA148772EE}|WpfApp1.vbproj|E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\view\\usercontrols\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -66,37 +66,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "users.json",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\users.json",
               "RelativeDocumentMoniker": "users.json",
               "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\users.json",
               "RelativeToolTip": "users.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-09T21:24:49.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "DashboardWindow.xaml.vb",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\DashboardWindow.xaml.vb",
               "RelativeDocumentMoniker": "DashboardWindow.xaml.vb",
               "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\DashboardWindow.xaml.vb",
               "RelativeToolTip": "DashboardWindow.xaml.vb",
-              "ViewState": "AgIAAAEAAAAAAAAAAAA2wAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-04-10T20:38:25.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "DashboardWindow.xaml",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\DashboardWindow.xaml",
               "RelativeDocumentMoniker": "DashboardWindow.xaml",
@@ -108,20 +108,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Register.xaml.vb",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\Register.xaml.vb",
               "RelativeDocumentMoniker": "Register.xaml.vb",
               "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\Register.xaml.vb",
               "RelativeToolTip": "Register.xaml.vb",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA5wCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-04-08T22:03:21.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Register.xaml",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\Register.xaml",
               "RelativeDocumentMoniker": "Register.xaml",
@@ -133,20 +133,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.vb",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\MainWindow.xaml.vb",
               "RelativeDocumentMoniker": "MainWindow.xaml.vb",
               "ToolTip": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\MainWindow.xaml.vb",
               "RelativeToolTip": "MainWindow.xaml.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-04-08T21:56:21.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -158,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ClearableTextBox.xaml.vb",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\ClearableTextBox.xaml.vb",
               "RelativeDocumentMoniker": "View\\UserControls\\ClearableTextBox.xaml.vb",
@@ -166,12 +166,11 @@
               "RelativeToolTip": "View\\UserControls\\ClearableTextBox.xaml.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-11T17:55:48.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T17:55:48.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ClearableTextBox.xaml",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\View\\UserControls\\ClearableTextBox.xaml",
               "RelativeDocumentMoniker": "View\\UserControls\\ClearableTextBox.xaml",
@@ -183,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ValidationService.vb",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\Services\\ValidationService.vb",
               "RelativeDocumentMoniker": "Services\\ValidationService.vb",
@@ -208,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "UserService.vb",
               "DocumentMoniker": "E:\\VisualBasics\\VisualBasicProjects\\CreatingFirstApp\\WpfApp1\\UserService.vb",
               "RelativeDocumentMoniker": "UserService.vb",
@@ -216,8 +215,7 @@
               "RelativeToolTip": "UserService.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-09T21:37:52.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T21:37:52.253Z"
             },
             {
               "$type": "Document",

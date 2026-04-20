@@ -46,8 +46,22 @@ Public Class Register
             Dim newUser As New UserModel()
             newUser.Username = username
             newUser.Password = password
+            newUser.Email = email
+            newUser.Gender = gender
+            newUser.FirstName = firstName
+            newUser.LastName = lastName
 
             UserService.SaveUser(newUser)
+
+            ' ✅ Debug check - read all users and display them
+            Dim allUsers As List(Of UserModel) = UserService.GetAllUsers()
+            Dim userList As String = "Users in database:" & Environment.NewLine
+
+            For Each u As UserModel In allUsers
+                userList &= $"- {u.Username} | {u.LastName} | {u.Email} " & Environment.NewLine
+            Next
+
+            MessageBox.Show(userList, "Database Check", MessageBoxButton.OK, MessageBoxImage.Information)
 
             Dim loginWin As New MainWindow()
             loginWin.Show()
