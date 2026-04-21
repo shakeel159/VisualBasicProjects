@@ -5,7 +5,7 @@
     '3. Length check               → reasonable input length
     '4. No special character check → prevent injection attempts
     '5. Credential check           → matches JSON file
-
+    'jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI='
     'Validate Username
     Public Shared Function ValidateUsername(username As String) As String
         If String.IsNullOrWhiteSpace(username) Then

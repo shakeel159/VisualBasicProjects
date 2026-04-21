@@ -9,8 +9,8 @@
     <Viewbox Stretch="Uniform">
         <Grid Width="800" Height="450">
             <Label Content="Sign In" FontSize="25" HorizontalAlignment="Left" Margin="668,148,0,0" VerticalAlignment="Top"/>
-            <local:ClearableTextBox Placeholder="Username" Margin="652,225,29,204"></local:ClearableTextBox>
-            <local:ClearableTextBox Placeholder="Password" Margin="652,261,29,168"></local:ClearableTextBox>
+            <local:ClearableTextBox x:Name="txtUsername" Placeholder="Username" Margin="652,225,29,204"></local:ClearableTextBox>
+            <local:ClearableTextBox x:Name="txtPassword" Placeholder="Password" Margin="652,261,29,168"></local:ClearableTextBox>
             <Button Name="btnSignIn" Content="Sign In" HorizontalAlignment="Left" Margin="731,294,0,0" VerticalAlignment="Top" Click="LogIn_Click"/>
             <TextBlock FontSize="10" HorizontalAlignment="Left" Margin="538,404,0,0" VerticalAlignment="Top">
                 <Run Text="Don't have an account? "/>

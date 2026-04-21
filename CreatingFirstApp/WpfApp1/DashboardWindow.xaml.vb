@@ -1,5 +1,4 @@
 ﻿Public Class DashboardWindow
-
     ' ✅ Correct - load once when window opens
     Private Sub Dashboard_Loaded(sender As Object, e As RoutedEventArgs)
         LoadUsers()

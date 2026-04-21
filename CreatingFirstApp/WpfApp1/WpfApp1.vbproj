@@ -78,6 +78,8 @@
       <DependentUpon>Register.xaml</DependentUpon>
     </Compile>
     <Compile Include="Models\UserModel.vb" />
+    <Compile Include="Services\FileReader.vb" />
+    <Compile Include="Services\SessionManager.vb" />
     <Compile Include="Services\ValidationService.vb" />
     <Compile Include="UserService.vb" />
     <Compile Include="View\UserControls\ClearableTextBox.xaml.vb">

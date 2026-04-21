@@ -1,27 +1,11 @@
 [
   {
-    "FirstName": null,
-    "LastName": null,
-    "Username": "s",
-    "Email": null,
-    "Password": "BDpxh3TFcr2KJa2+sb/NXAJWrhHOz5+cP5JdDlK+r4k=",
-    "Gender": null
-  },
-  {
-    "FirstName": null,
-    "LastName": null,
-    "Username": "a",
-    "Email": null,
-    "Password": "ypeBEsobvcr6wjGzmiPcTaeG7/gUfE5yuYB3ha/uSLs=",
-    "Gender": null
-  },
-  {
-    "FirstName": null,
-    "LastName": null,
-    "Username": "",
-    "Email": null,
-    "Password": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-    "Gender": null
+    "Username": "admin",
+    "Email": "admin@email.com",
+    "Password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+    "FirstName": "admin",
+    "LastName": "",
+    "Gender": "Male"
   },
   {
     "FirstName": null,
@@ -30,13 +14,5 @@
     "Email": null,
     "Password": "IJpCkXPOG/qmZ+8wpmfLNpXRBJ0cGLhY0uGiWBwTR6M=",
     "Gender": null
-  },
-  {
-    "FirstName": null,
-    "LastName": null,
-    "Username": "Subject",
-    "Email": "Test.subject@gmail.com",
-    "Password": "Uy6qvZV0iA2/drm4zACDLCCm7BE9aCKZVQ16bg80XiU=",
-    "Gender": "Male"
   }
 ]
