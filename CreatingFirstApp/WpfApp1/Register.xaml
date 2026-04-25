@@ -15,7 +15,7 @@
             <local:ClearableTextBox x:Name="txtLastName" Placeholder="LastName" HorizontalAlignment="Left" Margin="220,207,0,0" VerticalAlignment="Top" Width="120"></local:ClearableTextBox>
             <local:ClearableTextBox x:Name="txtUsername" Placeholder="Username" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Margin="-150,100,0,0"></local:ClearableTextBox>
             <local:ClearableTextBox x:Name="txtPassword" Placeholder="Passwoard" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Margin="150,100,0,0"></local:ClearableTextBox>
-            <ComboBox Name="cbGender" HorizontalAlignment="Left" Margin="460,207,0,0" VerticalAlignment="Top" Width="116" RenderTransformOrigin="0.447,-1.435" Height="20" SelectionChanged="Register_Loaded"/>
+            <ComboBox Name="cbGender" HorizontalAlignment="Left" Margin="460,207,0,0" VerticalAlignment="Top" Width="116" RenderTransformOrigin="0.447,-1.435" Height="20"/>
             <Button Content="Sign Up" HorizontalAlignment="Center" Margin="0,323,0,0" VerticalAlignment="Top" Click="Button_Click"/>
             <TextBlock x:Name="lblError" FontSize="11" Foreground="Red" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,350,0,0" Visibility="Collapsed" TextWrapping="Wrap"/>
         </Grid>

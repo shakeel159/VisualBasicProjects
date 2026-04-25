@@ -1,10 +1,10 @@
 [
   {
+    "FirstName": "admin",
+    "LastName": "",
     "Username": "admin",
     "Email": "admin@email.com",
     "Password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
-    "FirstName": "admin",
-    "LastName": "",
     "Gender": "Male"
   },
   {
@@ -14,5 +14,13 @@
     "Email": null,
     "Password": "IJpCkXPOG/qmZ+8wpmfLNpXRBJ0cGLhY0uGiWBwTR6M=",
     "Gender": null
+  },
+  {
+    "FirstName": "Test",
+    "LastName": "Subject",
+    "Username": "tsubject",
+    "Email": "testsub@gmail.com",
+    "Password": "WZRHGrsBESr8wYFZ9sx0tPURuZgG2lmzyvWpwXPKz8U=",
+    "Gender": "Male"
   }
 ]

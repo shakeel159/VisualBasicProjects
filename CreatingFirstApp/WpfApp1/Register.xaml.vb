@@ -61,7 +61,7 @@ Public Class Register
                 userList &= $"- {u.Username} | {u.LastName} | {u.Email} " & Environment.NewLine
             Next
 
-            MessageBox.Show(userList, "Database Check", MessageBoxButton.OK, MessageBoxImage.Information)
+            'MessageBox.Show(userList, "Database Check", MessageBoxButton.OK, MessageBoxImage.Information)
 
             Dim loginWin As New MainWindow()
             loginWin.Show()
@@ -81,4 +81,5 @@ Public Class Register
         lblError.Text = ""
         lblError.Visibility = Visibility.Collapsed
     End Sub
+
 End Class

@@ -12,8 +12,8 @@
             <MenuItem></MenuItem>
         </Menu>
         <ComboBox Name="cbLogOut" Grid.Row="0" Text="Logged In" IsEditable="True" IsReadOnly="True" FontSize="7" HorizontalAlignment="right" VerticalAlignment="Center" Width="60" Foreground="DarkBlue" Background="CadetBlue" BorderBrush="DodgerBlue" BorderThickness="2"
-            FontWeight="Bold">
-            <ComboBoxItem Content="Sign Out"/>
+            FontWeight="Bold" SelectionChanged="cbLogOut_SelectionChanged">
+            <ComboBoxItem Content="Sign Out" />
         </ComboBox>
     </Grid>
 </UserControl>
